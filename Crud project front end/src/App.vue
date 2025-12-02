@@ -32,7 +32,7 @@
 
    <v-footer color="white" class="border-t d-flex justify-center align-center py-1" height="40">
       <div class="text-caption text-grey">
-        <strong>Language learner made by Le Long</strong> &copy; {{ new Date().getFullYear() }}
+        <strong>Language learner made by Le Long, COMP1842</strong> &copy; {{ new Date().getFullYear() }}
       </div>
     </v-footer>
   </v-app>
